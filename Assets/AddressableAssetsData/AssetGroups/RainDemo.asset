@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RainDemo
+  m_EditorClassIdentifier: 
+  m_GroupName: RainDemo
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d1800938fb3efff498c0dce3235fa1b7
+  m_SerializeEntries:
+  - m_GUID: f72968d41ffa3e54fa7d5dab10c493fe
+    m_Address: Ground
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3231a541e6f00734d865a2588f9f3575
+    m_Address: House
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d717d32f71f02a4d9863b9347a02d61
+    m_Address: OuterEntities
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d3f9e6282dd3884c892de1a963b3bb6
+    m_Address: InnerEntities
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b99375ded2601584387b7eabc049f136, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c94ff539098fdd74288b425d1f4a8220, type: 2}
+    - {fileID: 11400000, guid: 26cd68087ebf2eb47b422a18d2795e67, type: 2}
